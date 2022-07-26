@@ -1,2 +1,2 @@
-# Python-Vizes
-This repository is where Im going to put any python visualisations I work on. I havent really figured out how to use Github yet, so It'll be a bit rough at the beginning until I get better at it.
+# Python-Projects
+This repository has been created as a central location for my python data analytics projects 
